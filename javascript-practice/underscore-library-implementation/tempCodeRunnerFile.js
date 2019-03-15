@@ -1,0 +1,1 @@
+console.log(some([null, 0, 'yes', false]));
